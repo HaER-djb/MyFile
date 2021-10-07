@@ -1,5 +1,11 @@
-! Title: adguard DNS 规则（修改版）
-! Version: 2021.10.6.19.34
+! Title: AdGuard DNS Rules (Lite)
+! Description: Number of rules: 66801
+! Version: 2021.10.7.19.9
+! TimeUpdated: 2021-10-07T19:09:20+00:00
+! Expires: 7 days (update frequency)
+!-------------------------------------------------------------------------------!
+!-------------------------------------------------------------------------------!
+!-------------------------------------------------------------------------------!
 @@||17173im.allyes.com^
 @@||ad-gone.com^
 @@||ad.10010.com^
@@ -1868,6 +1874,7 @@
 ||67lm.com^
 ||685wo.com^
 ||68665565.com^
+||686go.cc^
 ||68710266.com^
 ||688de7b3822de.com^
 ||688mob.com^
@@ -4263,6 +4270,7 @@
 ||ad.linkprice.com^
 ||ad.linksynergy.com^
 ||ad.logro.com.tr^
+||ad.lomadee.com^
 ||ad.lqalm.com^
 ||ad.m.iqiyi.com^
 ||ad.madvertise.de^
@@ -8179,6 +8187,7 @@
 ||anymind360.com^
 ||anysdk.com^
 ||anytime.digitaljobs.gr^
+||anyview.wang^
 ||anyxp.com^
 ||anyysz.com^
 ||anz7.allianz-voyage.fr^
@@ -12033,6 +12042,7 @@
 ||bruisebaseball.com^
 ||brukernano.actonservice.com^
 ||brunettebow.com^
+||brunettemattersrefused.com^
 ||brushdaughter.com^
 ||bruvwmrxudd.com^
 ||brycys.24mx.se^
@@ -21255,6 +21265,7 @@
 ||energeticladybug.com^
 ||energy.eneco.be^
 ||enews.learninga-z.com^
+||enews10.yxlady.net^
 ||enflaquat.xyz^
 ||enfreine.com^
 ||enfvikirzwt.com^
@@ -31547,6 +31558,7 @@
 ||kjgen.com^
 ||kjhfy.com^
 ||kjiztu.reebok.ru^
+||kjjzx.cn^
 ||kjkhgtwft.com^
 ||kjkwrmwdyhi.com^
 ||kjltxn.com^
@@ -39316,6 +39328,7 @@
 ||myeffect.net^
 ||myeffecto.com^
 ||myes.youku.com^
+||myezads.com^
 ||myfastcdn.com^
 ||myfastcounter.com^
 ||myfeng.cn^
@@ -58555,6 +58568,7 @@
 ||tracking.chacha.com^
 ||tracking.changehealthcare.com^
 ||tracking.chem-agilent.com^
+||tracking.chilipiper.com^
 ||tracking.cirrusinsight.com^
 ||tracking.clarivate.com^
 ||tracking.columbiabank.com^
@@ -59342,6 +59356,7 @@
 ||trustclick.ne.jp^
 ||trusted-click-host.com^
 ||trusted-web-seal.cybertrust.ne.jp^
+||trustedgatetocontent.com^
 ||trustiseverything.de^
 ||trustmeiamapro.de^
 ||trustmeiamcdn.com^
@@ -60762,6 +60777,7 @@
 ||v.xinshide.cn^
 ||v.xiuzhenjewelry.cn^
 ||v00087.com^
+||v00ske77693f.com^
 ||v00yvd.xyz^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||v0hs81ev3vepjr.ru^
@@ -64474,6 +64490,7 @@
 ||xinray.com^
 ||xinray.net^
 ||xinshengchuanmei.cn^
+||xinshiji.ltd^
 ||xintaizhaoming.com^
 ||xintengfeiyang.info^
 ||xinterface.cn^
